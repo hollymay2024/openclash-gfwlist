@@ -1,0 +1,16 @@
+payload:
+  # 代理列表
+
+  # MyList && Other
+  - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,clash-meta.wiki
+  - DOMAIN-SUFFIX,groueta.cc
+  # 国外域名
+  #- DOMAIN-SUFFIX,eu
+  
+
+  # 国外域名关键字
+  #- DOMAIN-KEYWORD,1e100
+
+  # GFW list
+  #- DOMAIN-SUFFIX,gfwlist.starit
