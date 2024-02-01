@@ -16,3 +16,5 @@ payload:
 
   # GFW list
   #- DOMAIN-SUFFIX,gfwlist.starit
+  # Game
+  - DOMAIN-SUFFIX,dice.se
