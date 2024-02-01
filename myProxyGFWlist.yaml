@@ -16,5 +16,7 @@ payload:
 
   # GFW list
   #- DOMAIN-SUFFIX,gfwlist.starit
-  # Game
+  
+  # Game dice
   - DOMAIN-SUFFIX,dice.se
+  - IP-CIDR,35.77.32.180
