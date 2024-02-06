@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,clash-meta.wiki
   - DOMAIN-SUFFIX,groueta.cc
   - DOMAIN-SUFFIX,apkpure.net
+  - DOMAIN-SUFFIX,visualstudio.com
   # 国外域名
   #- DOMAIN-SUFFIX,eu
   
