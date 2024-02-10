@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,groueta.cc
   - DOMAIN-SUFFIX,apkpure.net
   - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,team.io
   # 国外域名
   #- DOMAIN-SUFFIX,eu
   
