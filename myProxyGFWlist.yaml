@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,apkpure.net
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,team.io
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,mailchimp.com
   # 国外域名
   #- DOMAIN-SUFFIX,eu
   
